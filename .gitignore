@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Default ignored files
+/shelf/
+workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+misc.xml
+modules.xml
+profiles_settings.xml
+vcs.xml
+Friday-AI-Chat-Agent.iml
